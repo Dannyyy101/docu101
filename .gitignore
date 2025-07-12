@@ -1,3 +1,7 @@
 .idea
 
 sqlite/*.db
+
+# Added by cargo
+
+/target
